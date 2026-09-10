@@ -4,7 +4,7 @@ Code Generation</h1>
 
 <p align="center">
   <a href="#"><img alt="EMNLP 2026" src="https://img.shields.io/badge/📰-EMNLP_2026_Findings-9cf.svg"></a>
-  <a href="https://python.org/"><img alt="Python version" src="https://img.shields.io/badge/python-3.13+-blue?style=flat-square" /></a>
+  <a href="https://python.org/"><img alt="Python version" src="https://img.shields.io/badge/python-3.13+-blue" /></a>
   <a href="#"><img alt="License" src="https://img.shields.io/badge/license-MIT-green.svg"></a>
   <a href="https://arxiv.org/abs/2609.09987"><img alt="Paper" src="https://img.shields.io/badge/arXiv-2609.09987-red.svg"></a>
   <a href="https://huggingface.co/datasets/solis-soict/VersionExec"><img alt="HF Model" src="https://img.shields.io/badge/Hugging%20Face-VersionExec-yellow?logo=huggingface" /></a>
